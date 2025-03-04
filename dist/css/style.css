@@ -618,6 +618,9 @@ body {
     max-width: calc(100% - 3.125rem);
     margin-top: -.4375rem
   }
+  .button {
+    border-radius: .3125rem
+  }
   .footer__top ul li {
     line-height: 50%
   }
